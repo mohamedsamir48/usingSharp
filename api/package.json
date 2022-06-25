@@ -1,0 +1,33 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "sharp nodejs",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohamedsamir48/usingSharp.git"
+  },
+  "keywords": [
+    "\"sharp\"",
+    "\"nodejs\"",
+    "\"imageproccesiing\""
+  ],
+  "author": "mohamed sami",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohamedsamir48/usingSharp/issues"
+  },
+  "homepage": "https://github.com/mohamedsamir48/usingSharp#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.18",
+    "sharp": "^0.30.7"
+  },
+  "proxy": "http://localhost:3000"
+
+}

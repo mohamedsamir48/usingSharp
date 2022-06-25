@@ -6,5 +6,5 @@ sharp project, image processing using sharp
 using sharp
 using typescript
 using eslint
-using prettier
+
 
